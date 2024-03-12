@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+/.wwebjs_aut
+/.wwebjs_cache
+
 # testing
 /coverage
 
